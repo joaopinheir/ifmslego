@@ -73,6 +73,7 @@ h1 {
 	.filho5 {
 		justify-content: center;
 		align-items: center;
+		width: 100%
 	}
 
 	.pai-geral {
@@ -86,6 +87,8 @@ h1 {
 		width: 100%;
 		height: auto;
 	}
-
+	.imagens {
+		width: 100%;
+	}
 
 }
