@@ -89,6 +89,7 @@ h1 {
 	}
 	.imagens {
 		width: 100%;
+		height: auto;
 	}
 
 }
